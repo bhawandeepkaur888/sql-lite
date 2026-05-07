@@ -28,6 +28,7 @@ This repository contains various data analysis notebooks and projects using Pyth
 
 ## Project Structure
 
+```text
 Data-Analysis-Projects/
 │
 ├── datasets/
@@ -35,6 +36,7 @@ Data-Analysis-Projects/
 ├── visualizations/
 ├── reports/
 └── README.md
+```
 
 ---
 
@@ -66,15 +68,21 @@ Data-Analysis-Projects/
 
 Clone the repository:
 
+```bash
 git clone https://github.com/your-username/Data-Analysis-Projects.git
+```
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 Run Jupyter Notebook:
 
+```bash
 jupyter notebook
+```
 
 ---
 
